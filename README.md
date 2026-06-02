@@ -24,6 +24,7 @@
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohitrai94/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3093-longest-common-suffix-queries](https://github.com/rohitrai94/DSA/tree/master/3093-longest-common-suffix-queries) |
 ## Trie
 |  |
@@ -55,8 +56,10 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rohitrai94/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohitrai94/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rohitrai94/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohitrai94/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
