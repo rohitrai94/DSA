@@ -50,10 +50,12 @@
 |  |
 | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rohitrai94/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/rohitrai94/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rohitrai94/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/rohitrai94/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/rohitrai94/DSA/tree/master/1392-longest-happy-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/rohitrai94/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
