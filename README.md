@@ -52,12 +52,14 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rohitrai94/DSA/tree/master/0070-climbing-stairs) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rohitrai94/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rohitrai94/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/rohitrai94/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rohitrai94/DSA/tree/master/0070-climbing-stairs) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rohitrai94/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rohitrai94/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/rohitrai94/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohitrai94/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rohitrai94/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
