@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rohitrai94/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/rohitrai94/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2126-destroying-asteroids](https://github.com/rohitrai94/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rohitrai94/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohitrai94/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohitrai94/DSA/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/rohitrai94/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
