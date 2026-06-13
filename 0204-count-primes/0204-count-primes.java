@@ -1,34 +1,28 @@
 class Solution {
     public int countPrimes(int n) {
+        if(n <= 2){
+            return 0;
+        }
+       
+       boolean[] isPrime = new boolean[n];
+       Arrays.fill(isPrime, true);
 
-        if (n <= 2) return 0;
-
-        boolean[] isPrime = new boolean[n];
-
-        // Assume every number from 2 to n-1 is prime
-        Arrays.fill(isPrime, true);
-
-        isPrime[0] = false;
-        isPrime[1] = false;
-
-        // Sieve
-        for (int i = 2; i * i < n; i++) {
-            if (isPrime[i]) {
-                for (int j = i * i; j < n; j += i) {
-                    isPrime[j] = false;
-                }
+       isPrime[0]= false;
+       isPrime[1] = false;
+       for(int i=2; i*i<n; i++){
+        if(isPrime[i]){
+            for(int j=i*i; j<n; j+=i){
+                isPrime[j] = false;
             }
         }
+       }
 
-        // Count primes
-        int count = 0;
-
-        for (int i = 2; i < n; i++) {
-            if (isPrime[i]) {
+        int count =0; 
+        for(int i=2; i<n; i++){
+            if(isPrime[i]){
                 count++;
             }
         }
-
-        return count;
+    return count;
     }
 }
