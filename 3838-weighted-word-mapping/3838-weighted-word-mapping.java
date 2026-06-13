@@ -6,8 +6,7 @@ class Solution {
             for(int j=0; j<word.length(); j++){
                 sum += weights[word.charAt(j )-'a'];
             }
-            char c = (char)(97+25-(sum%26));
-            sb.append(c);
+            sb.append((char)('z'-(sum%26)));
         }
         return sb.toString();
     }
