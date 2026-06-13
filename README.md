@@ -16,6 +16,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rohitrai94/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rohitrai94/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rohitrai94/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/rohitrai94/DSA/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohitrai94/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/rohitrai94/DSA/tree/master/1392-longest-happy-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/rohitrai94/DSA/tree/master/3093-longest-common-suffix-queries) |
+| [3838-weighted-word-mapping](https://github.com/rohitrai94/DSA/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohitrai94/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/rohitrai94/DSA/tree/master/3838-weighted-word-mapping) |
 ## Memoization
 |  |
 | ------- |
