@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/rohitrai94/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rohitrai94/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2126-destroying-asteroids](https://github.com/rohitrai94/DSA/tree/master/2126-destroying-asteroids) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohitrai94/DSA/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rohitrai94/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rohitrai94/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rohitrai94/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -109,6 +111,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rohitrai94/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
@@ -145,4 +148,8 @@
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rohitrai94/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
