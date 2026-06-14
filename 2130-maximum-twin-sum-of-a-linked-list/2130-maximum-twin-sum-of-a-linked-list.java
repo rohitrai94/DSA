@@ -11,18 +11,46 @@
 class Solution {
     public int pairSum(ListNode head) {
         int max = Integer.MIN_VALUE;
-        int size=0;
-        List<Integer> list = new ArrayList<>();
-        ListNode temp = head;
-        while(temp != null){
-            size++;
-            list.add(temp.val);
-            temp = temp.next;
+        // int size=0;
+        // List<Integer> list = new ArrayList<>();
+        // ListNode temp = head;
+        // while(temp != null){
+        //     size++;
+        //     list.add(temp.val);
+        //     temp = temp.next;
+        // }
+
+        // for(int i=0; i<size/2; i++){
+        //     int sum = list.get(i) + list.get(size-i-1);
+        //     max = Math.max(max, sum);
+        // }
+
+
+        //find half of linkedlist
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        for(int i=0; i<size/2; i++){
-            int sum = list.get(i) + list.get(size-i-1);
-            max = Math.max(max, sum);
+        // reverse half part
+        ListNode curr = slow;
+        ListNode prev = null;
+        while(curr != null){
+            ListNode Next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = Next;
+        }
+
+        ListNode firstPart = head;
+        ListNode secPart = prev;
+        while(secPart != null){
+            int sum = firstPart.val + secPart.val;
+            max = Math.max(max,sum);
+            firstPart = firstPart.next;
+            secPart = secPart.next;
         }
         return max;
     }
