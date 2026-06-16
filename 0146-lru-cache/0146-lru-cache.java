@@ -28,18 +28,18 @@ class LRUCache {
     }
 
     public void remove(Node node){
-        node.prev.next = node.next;
         node.next.prev = node.prev;
+        node.prev.next = node.next;
     }
 
     public void insert(Node node){
-        Node prevNode = tail.prev;
+        Node nextNode = head.next;
 
-        prevNode.next = node;
-        node.prev = prevNode;
+        nextNode.prev = node;
+        node.next = nextNode;
 
-        node.next = tail;
-        tail.prev = node;
+        node.prev = head;
+        head.next = node;
     }
     
     public int get(int key) {
@@ -61,9 +61,9 @@ class LRUCache {
             insert(curr);
         }else{
             if(map.size() == capacity){
-                Node first = head.next;
-                remove(first);
-                map.remove(first.key);
+                Node last = tail.prev;
+                remove(last);
+                map.remove(last.key);
             }
             Node newNode = new Node(key, value);
             insert(newNode);
