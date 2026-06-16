@@ -1,21 +1,20 @@
-class Solution {
+public class Solution {
+
     public String processStr(String s) {
-        StringBuilder sb = new StringBuilder();
-        for(int i=0; i<s.length(); i++){
-            if('*' == s.charAt(i) ){
-                if(sb.length()<=0){
-                    continue;
-                }else{
-                    sb = sb.deleteCharAt(sb.length()-1);
-                }
-            }else if('#' == s.charAt(i)){
-                sb = sb.append(sb);
-            }else if('%' == s.charAt(i)){
-                sb = sb.reverse();
-            }else{
-                sb.append(s.charAt(i));
+        StringBuilder result = new StringBuilder();
+        for (char ch : s.toCharArray()) {
+            if (ch == '*') {
+                if (result.length() > 0) result.deleteCharAt(
+                    result.length() - 1
+                );
+            } else if (ch == '#') {
+                result.append(result.toString());
+            } else if (ch == '%') {
+                result.reverse();
+            } else {
+                result.append(ch);
             }
         }
-        return sb.toString();
+        return result.toString();
     }
 }
