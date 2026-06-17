@@ -23,9 +23,7 @@ class Solution {
                 l++;
             }else if(s.charAt(i) == '#'){
                 l = l/2;
-                if(k >= l){
-                    k -= l;
-                }
+                k %=l;
             }else if(s.charAt(i) == '%'){
                 k = l-k-1;
             }else{
