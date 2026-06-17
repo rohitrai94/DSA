@@ -40,6 +40,7 @@
 | [1392-longest-happy-prefix](https://github.com/rohitrai94/DSA/tree/master/1392-longest-happy-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/rohitrai94/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3612-process-string-with-special-operations-i](https://github.com/rohitrai94/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/rohitrai94/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/rohitrai94/DSA/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -138,6 +139,7 @@
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohitrai94/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/rohitrai94/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/rohitrai94/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/rohitrai94/DSA/tree/master/3838-weighted-word-mapping) |
 ## Memoization
 |  |
