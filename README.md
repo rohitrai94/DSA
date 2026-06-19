@@ -7,6 +7,7 @@
 | [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/rohitrai94/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rohitrai94/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1732-find-the-highest-altitude](https://github.com/rohitrai94/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2126-destroying-asteroids](https://github.com/rohitrai94/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rohitrai94/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -66,6 +67,7 @@
 | [0070-climbing-stairs](https://github.com/rohitrai94/DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/rohitrai94/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
+| [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rohitrai94/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rohitrai94/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2523-closest-prime-numbers-in-range](https://github.com/rohitrai94/DSA/tree/master/2523-closest-prime-numbers-in-range) |
@@ -187,4 +189,12 @@
 | ------- |
 | [0146-lru-cache](https://github.com/rohitrai94/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/rohitrai94/DSA/tree/master/0460-lfu-cache) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
+## Matrix
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
