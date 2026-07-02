@@ -23,6 +23,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rohitrai94/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3093-longest-common-suffix-queries](https://github.com/rohitrai94/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/rohitrai94/DSA/tree/master/3161-block-placement-queries) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitrai94/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rohitrai94/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rohitrai94/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rohitrai94/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rohitrai94/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitrai94/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitrai94/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rohitrai94/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bit Manipulation
 |  |
@@ -232,6 +234,7 @@
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitrai94/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitrai94/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -252,8 +255,17 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitrai94/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitrai94/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitrai94/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitrai94/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitrai94/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
