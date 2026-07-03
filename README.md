@@ -25,6 +25,7 @@
 | [3161-block-placement-queries](https://github.com/rohitrai94/DSA/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitrai94/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rohitrai94/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/rohitrai94/DSA/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rohitrai94/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rohitrai94/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rohitrai94/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -35,6 +36,7 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitrai94/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/rohitrai94/DSA/tree/master/3161-block-placement-queries) |
+| [3620-network-recovery-pathways](https://github.com/rohitrai94/DSA/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rohitrai94/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Indexed Tree
 |  |
@@ -103,6 +105,7 @@
 | [0070-climbing-stairs](https://github.com/rohitrai94/DSA/tree/master/0070-climbing-stairs) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rohitrai94/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rohitrai94/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/rohitrai94/DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rohitrai94/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rohitrai94/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rohitrai94/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -189,6 +192,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rohitrai94/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitrai94/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitrai94/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/rohitrai94/DSA/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rohitrai94/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bit Manipulation
 |  |
@@ -264,8 +268,14 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitrai94/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/rohitrai94/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitrai94/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/rohitrai94/DSA/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/rohitrai94/DSA/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
