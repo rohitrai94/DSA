@@ -9,6 +9,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rohitrai94/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0812-largest-triangle-area](https://github.com/rohitrai94/DSA/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
+| [1301-number-of-paths-with-max-score](https://github.com/rohitrai94/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/rohitrai94/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/rohitrai94/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/rohitrai94/DSA/tree/master/1840-maximum-building-height) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohitrai94/DSA/tree/master/0070-climbing-stairs) |
+| [1301-number-of-paths-with-max-score](https://github.com/rohitrai94/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rohitrai94/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rohitrai94/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/rohitrai94/DSA/tree/master/3620-network-recovery-pathways) |
@@ -238,6 +240,7 @@
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
+| [1301-number-of-paths-with-max-score](https://github.com/rohitrai94/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitrai94/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitrai94/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Counting Sort
