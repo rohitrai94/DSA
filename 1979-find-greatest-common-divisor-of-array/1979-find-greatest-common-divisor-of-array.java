@@ -6,11 +6,16 @@ class Solution {
             min = Math.min(min, nums[i]);
             max = Math.max(max, nums[i]);
         }
-        for(int i = min; i>0; i--){
-            if((max%i == 0) && (min %i == 0)){
-                return i;
-            }
-        }
-        return 1;
+       return gcd(min, max);
     }
+
+    private int gcd(int a, int b){
+        while(a != 0){
+            int temp = a;
+            a = b%a;
+            b = temp;
+        }
+        return b;
+    }
+
 }
