@@ -107,6 +107,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/rohitrai94/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rohitrai94/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rohitrai94/DSA/tree/master/0326-power-of-three) |
 | [0812-largest-triangle-area](https://github.com/rohitrai94/DSA/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rohitrai94/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -338,4 +339,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rohitrai94/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rohitrai94/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
