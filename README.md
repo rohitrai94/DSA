@@ -108,6 +108,7 @@
 | [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rohitrai94/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rohitrai94/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rohitrai94/DSA/tree/master/0342-power-of-four) |
 | [0812-largest-triangle-area](https://github.com/rohitrai94/DSA/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rohitrai94/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rohitrai94/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/rohitrai94/DSA/tree/master/0342-power-of-four) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrai94/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rohitrai94/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -340,4 +342,5 @@
 | ------- |
 | [0231-power-of-two](https://github.com/rohitrai94/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rohitrai94/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rohitrai94/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
