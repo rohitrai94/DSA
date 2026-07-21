@@ -107,6 +107,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/rohitrai94/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rohitrai94/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rohitrai94/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/rohitrai94/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rohitrai94/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/rohitrai94/DSA/tree/master/0509-fibonacci-number) |
@@ -215,6 +216,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rohitrai94/DSA/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/rohitrai94/DSA/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohitrai94/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/rohitrai94/DSA/tree/master/3612-process-string-with-special-operations-i) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/rohitrai94/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitrai94/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/rohitrai94/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rohitrai94/DSA/tree/master/3312-sorted-gcd-pair-queries) |
