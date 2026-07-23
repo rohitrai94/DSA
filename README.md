@@ -32,6 +32,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/rohitrai94/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rohitrai94/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rohitrai94/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rohitrai94/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrai94/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rohitrai94/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/rohitrai94/DSA/tree/master/3620-network-recovery-pathways) |
@@ -125,6 +126,7 @@
 | [2523-closest-prime-numbers-in-range](https://github.com/rohitrai94/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rohitrai94/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rohitrai94/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rohitrai94/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rohitrai94/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rohitrai94/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/rohitrai94/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -246,6 +248,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/rohitrai94/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rohitrai94/DSA/tree/master/0342-power-of-four) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rohitrai94/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrai94/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rohitrai94/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
