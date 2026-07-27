@@ -14,6 +14,7 @@
 | [1288-remove-covered-intervals](https://github.com/rohitrai94/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitrai94/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/rohitrai94/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitrai94/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/rohitrai94/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/rohitrai94/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/rohitrai94/DSA/tree/master/1840-maximum-building-height) |
@@ -102,6 +103,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/rohitrai94/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/rohitrai94/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rohitrai94/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitrai94/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/rohitrai94/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/rohitrai94/DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rohitrai94/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -247,6 +249,7 @@
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rohitrai94/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitrai94/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitrai94/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitrai94/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rohitrai94/DSA/tree/master/3620-network-recovery-pathways) |
