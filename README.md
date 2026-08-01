@@ -7,6 +7,7 @@
 | [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/rohitrai94/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rohitrai94/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0486-predict-the-winner](https://github.com/rohitrai94/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohitrai94/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/rohitrai94/DSA/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
@@ -130,6 +131,7 @@
 | [0258-add-digits](https://github.com/rohitrai94/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/rohitrai94/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rohitrai94/DSA/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/rohitrai94/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rohitrai94/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohitrai94/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/rohitrai94/DSA/tree/master/0812-largest-triangle-area) |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohitrai94/DSA/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/rohitrai94/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rohitrai94/DSA/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitrai94/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rohitrai94/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -388,5 +391,10 @@
 | [0231-power-of-two](https://github.com/rohitrai94/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rohitrai94/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rohitrai94/DSA/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/rohitrai94/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rohitrai94/DSA/tree/master/0509-fibonacci-number) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rohitrai94/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
