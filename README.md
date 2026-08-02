@@ -10,6 +10,7 @@
 | [0486-predict-the-winner](https://github.com/rohitrai94/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohitrai94/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/rohitrai94/DSA/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/rohitrai94/DSA/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/rohitrai94/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rohitrai94/DSA/tree/master/1288-remove-covered-intervals) |
@@ -135,6 +136,7 @@
 | [0509-fibonacci-number](https://github.com/rohitrai94/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohitrai94/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/rohitrai94/DSA/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/rohitrai94/DSA/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rohitrai94/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/rohitrai94/DSA/tree/master/1840-maximum-building-height) |
@@ -160,6 +162,7 @@
 | [0070-climbing-stairs](https://github.com/rohitrai94/DSA/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/rohitrai94/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rohitrai94/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/rohitrai94/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitrai94/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rohitrai94/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rohitrai94/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -397,4 +400,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rohitrai94/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/rohitrai94/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
