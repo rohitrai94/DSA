@@ -13,12 +13,10 @@ class Solution {
             set.add(nums[i]);
         }
 
-        for(int i=0; i<n; i++ ){
-            if(!set.contains(sum)){
-              return sum;
-            }
+        while(set.contains(sum)){
             sum += 1;
         }
+
         return sum;
     }
 }
