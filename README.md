@@ -75,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rohitrai94/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohitrai94/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohitrai94/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/rohitrai94/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -116,6 +117,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rohitrai94/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohitrai94/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/rohitrai94/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rohitrai94/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -203,6 +205,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/rohitrai94/DSA/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/rohitrai94/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/rohitrai94/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohitrai94/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/rohitrai94/DSA/tree/master/0460-lfu-cache) |
 | [1189-maximum-number-of-balloons](https://github.com/rohitrai94/DSA/tree/master/1189-maximum-number-of-balloons) |
