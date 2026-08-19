@@ -15,7 +15,7 @@ class Solution {
 
         int ans = (n - occupied.size())*2;
         for(Map.Entry<Integer,Integer> entry : occupied.entrySet()){
-            int row = entry.getValue(), bitmask = entry.getValue();
+            int  bitmask = entry.getValue();
             if((bitmask | left) == left || (bitmask | right)==right || (bitmask | middle) == middle){
                 ans++;
             }
