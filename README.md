@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/rohitrai94/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rohitrai94/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rohitrai94/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0486-predict-the-winner](https://github.com/rohitrai94/DSA/tree/master/0486-predict-the-winner) |
@@ -131,6 +132,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rohitrai94/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohitrai94/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohitrai94/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/rohitrai94/DSA/tree/master/1288-remove-covered-intervals) |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rohitrai94/DSA/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/rohitrai94/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rohitrai94/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rohitrai94/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohitrai94/DSA/tree/master/0424-longest-repeating-character-replacement) |
