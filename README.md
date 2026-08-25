@@ -55,6 +55,7 @@
 | [3620-network-recovery-pathways](https://github.com/rohitrai94/DSA/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rohitrai94/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rohitrai94/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rohitrai94/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rohitrai94/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rohitrai94/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rohitrai94/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -251,6 +252,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/rohitrai94/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rohitrai94/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rohitrai94/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rohitrai94/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rohitrai94/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rohitrai94/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rohitrai94/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
