@@ -378,6 +378,7 @@
 | [0146-lru-cache](https://github.com/rohitrai94/DSA/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/rohitrai94/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0460-lfu-cache](https://github.com/rohitrai94/DSA/tree/master/0460-lfu-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rohitrai94/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohitrai94/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rohitrai94/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
