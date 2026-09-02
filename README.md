@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rohitrai94/DSA/tree/master/0049-group-anagrams) |
 | [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rohitrai94/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rohitrai94/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -89,6 +90,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rohitrai94/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rohitrai94/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohitrai94/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rohitrai94/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -139,6 +141,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rohitrai94/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rohitrai94/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohitrai94/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rohitrai94/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -236,6 +239,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rohitrai94/DSA/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/rohitrai94/DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/rohitrai94/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rohitrai94/DSA/tree/master/0219-contains-duplicate-ii) |
