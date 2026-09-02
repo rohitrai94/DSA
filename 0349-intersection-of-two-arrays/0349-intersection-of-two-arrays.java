@@ -13,7 +13,7 @@ class Solution {
            
         }
         return list.stream()
-                          .mapToInt(Integer::intValue)
+                          .mapToInt(i->i)
                           .toArray();
     }
 }
