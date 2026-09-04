@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rohitrai94/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rohitrai94/DSA/tree/master/0049-group-anagrams) |
 | [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rohitrai94/DSA/tree/master/0217-contains-duplicate) |
@@ -245,6 +246,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rohitrai94/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rohitrai94/DSA/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/rohitrai94/DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/rohitrai94/DSA/tree/master/0217-contains-duplicate) |
@@ -422,6 +424,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rohitrai94/DSA/tree/master/0036-valid-sudoku) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/rohitrai94/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitrai94/DSA/tree/master/1301-number-of-paths-with-max-score) |
