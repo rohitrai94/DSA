@@ -6,6 +6,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/rohitrai94/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rohitrai94/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/rohitrai94/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/rohitrai94/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rohitrai94/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rohitrai94/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -248,6 +249,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/rohitrai94/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rohitrai94/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/rohitrai94/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/rohitrai94/DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/rohitrai94/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rohitrai94/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -467,6 +469,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rohitrai94/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohitrai94/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/rohitrai94/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitrai94/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
