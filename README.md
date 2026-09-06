@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rohitrai94/DSA/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/rohitrai94/DSA/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/rohitrai94/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohitrai94/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rohitrai94/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohitrai94/DSA/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/rohitrai94/DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/rohitrai94/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rohitrai94/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rohitrai94/DSA/tree/master/0877-stone-game) |
