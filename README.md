@@ -200,6 +200,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/rohitrai94/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/rohitrai94/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohitrai94/DSA/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rohitrai94/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/rohitrai94/DSA/tree/master/1840-maximum-building-height) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rohitrai94/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/rohitrai94/DSA/tree/master/1872-stone-game-viii) |
@@ -238,6 +239,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/rohitrai94/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/rohitrai94/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohitrai94/DSA/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rohitrai94/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rohitrai94/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/rohitrai94/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rohitrai94/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -253,6 +255,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rohitrai94/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rohitrai94/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohitrai94/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rohitrai94/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -337,6 +340,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rohitrai94/DSA/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rohitrai94/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/rohitrai94/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/rohitrai94/DSA/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/rohitrai94/DSA/tree/master/2574-left-and-right-sum-differences) |
