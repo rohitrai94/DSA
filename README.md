@@ -203,6 +203,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
 | [1140-stone-game-ii](https://github.com/rohitrai94/DSA/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rohitrai94/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rohitrai94/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/rohitrai94/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rohitrai94/DSA/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rohitrai94/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -458,6 +459,7 @@
 | [0812-largest-triangle-area](https://github.com/rohitrai94/DSA/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/rohitrai94/DSA/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rohitrai94/DSA/tree/master/0883-projection-area-of-3d-shapes) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rohitrai94/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Matrix
 |  |
 | ------- |
