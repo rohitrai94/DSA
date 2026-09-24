@@ -62,6 +62,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rohitrai94/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/rohitrai94/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrai94/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rohitrai94/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rohitrai94/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rohitrai94/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/rohitrai94/DSA/tree/master/3620-network-recovery-pathways) |
@@ -229,6 +230,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rohitrai94/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/rohitrai94/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rohitrai94/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rohitrai94/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rohitrai94/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rohitrai94/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rohitrai94/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
