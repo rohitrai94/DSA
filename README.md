@@ -116,6 +116,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/rohitrai94/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rohitrai94/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohitrai94/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/rohitrai94/DSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/rohitrai94/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohitrai94/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/rohitrai94/DSA/tree/master/1392-longest-happy-prefix) |
@@ -171,6 +172,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/rohitrai94/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/rohitrai94/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohitrai94/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/rohitrai94/DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/rohitrai94/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rohitrai94/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rohitrai94/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -289,6 +291,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/rohitrai94/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rohitrai94/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/rohitrai94/DSA/tree/master/0460-lfu-cache) |
+| [1096-brace-expansion-ii](https://github.com/rohitrai94/DSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/rohitrai94/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rohitrai94/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rohitrai94/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -452,6 +455,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohitrai94/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/rohitrai94/DSA/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rohitrai94/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -508,6 +512,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rohitrai94/DSA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohitrai94/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/rohitrai94/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitrai94/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -567,6 +572,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rohitrai94/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rohitrai94/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
