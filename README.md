@@ -49,6 +49,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/rohitrai94/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rohitrai94/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitrai94/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rohitrai94/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rohitrai94/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rohitrai94/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rohitrai94/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -175,6 +176,7 @@
 | [2126-destroying-asteroids](https://github.com/rohitrai94/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rohitrai94/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rohitrai94/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rohitrai94/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rohitrai94/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohitrai94/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rohitrai94/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -327,6 +329,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rohitrai94/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rohitrai94/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rohitrai94/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rohitrai94/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rohitrai94/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohitrai94/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rohitrai94/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -445,6 +448,7 @@
 | [0231-power-of-two](https://github.com/rohitrai94/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rohitrai94/DSA/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/rohitrai94/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rohitrai94/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohitrai94/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rohitrai94/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rohitrai94/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
