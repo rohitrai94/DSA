@@ -74,6 +74,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rohitrai94/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rohitrai94/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rohitrai94/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rohitrai94/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/rohitrai94/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rohitrai94/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rohitrai94/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -184,6 +185,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrai94/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rohitrai94/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rohitrai94/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rohitrai94/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rohitrai94/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rohitrai94/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rohitrai94/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rohitrai94/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/rohitrai94/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
